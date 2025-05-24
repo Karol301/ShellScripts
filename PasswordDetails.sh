@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#
+#This script is responsible for showing details of users password
+#
 echo "Name of user who you want to analyze:"
 read name
 
