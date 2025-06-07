@@ -16,3 +16,10 @@ This script is used to provide information about permissions to any file for use
 This script can be used to create a backup copy of files that have not been edited for a specified period of time. The user can enter a directory to backup, the files from this directory are checked and the time difference is calculated
 
 ![image](https://github.com/user-attachments/assets/42a821c6-1d78-4467-ae19-d345fb19807b)
+
+
+4.FileSorter
+This script is printing up to 10 files per type with their names and sizes. If the directory does not exist or no argument is provided, it shows an error message.
+
+![image](https://github.com/user-attachments/assets/36f3407e-659d-4132-95c9-36929e48a4c7)
+
