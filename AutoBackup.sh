@@ -1,6 +1,7 @@
 #!/bin/bash
 ####################
-#This script can be used to create a backup copy of files that have not been edited for a specified period of time. The user can enter a directory to backup, the files from this directory are checked and the time difference is calculated
+#This script can be used to create a backup copy of files that have not been edited for a specified period of time.
+#The user can enter a directory to backup, the files from this directory are checked and the time difference is calculated
 ####################
 echo "Which directory do you want to back up? (absolute path): "
 read dir_to_backup
