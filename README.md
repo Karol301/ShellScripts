@@ -23,3 +23,9 @@ This script is printing up to 10 files per type with their names and sizes. If t
 
 ![image](https://github.com/user-attachments/assets/36f3407e-659d-4132-95c9-36929e48a4c7)
 
+5.CPUandRAMstat
+This script monitors the system's RAM and CPU usage at a user-defined interval. If RAM or CPU usage exceeds the provided limit, it prints a warning message and stops execution.
+
+![image](https://github.com/user-attachments/assets/9190748c-c644-4d95-ba84-029c5e0a5373)
+
+
