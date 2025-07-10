@@ -28,4 +28,7 @@ This script monitors the system's RAM and CPU usage at a user-defined interval. 
 
 ![image](https://github.com/user-attachments/assets/9190748c-c644-4d95-ba84-029c5e0a5373)
 
+6.CreatingContainer
+This script removes a Docker image provided by the user and creates a new one based on the given Dockerfile path.
 
+<img width="866" height="666" alt="image" src="https://github.com/user-attachments/assets/ff37a9c8-3655-4a82-8dd8-3a82eb19b5e5" />
